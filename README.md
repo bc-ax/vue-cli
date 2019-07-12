@@ -1,12 +1,11 @@
 # blog
 
-> A Vue.js project
+> vue-cli2 博客
+> 基于vue-resource与firebase
 
 ## Build Setup
 
 ``` bash
-# vue-cli2 博客
-# 基于vue-resource与firebase
 
 # install dependencies
 npm install
