@@ -1,7 +1,7 @@
 # blog
 
 > vue-cli2 博客
-> 基于vue-resource与firebase
+> 基于vue-resource与firebase axios还暂时没上传
 
 ## Build Setup
 
